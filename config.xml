@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.greenapplesea.dragon" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>DragonChoices2</name>
+    <name>Dragon Choices</name>
     <description>
-        A blank PhoneGap app.
+        A Four Choices example inspired by Melissa Ford. Proof of concept going from Twine 2 Harlowe to native mobile app.
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="jchristian@greenapplesea.com" href="http://jimchristian.net">
+        Jim Christian
     </author>
     <content src="index.html" />
     <access origin="*" />
